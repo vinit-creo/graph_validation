@@ -24,7 +24,7 @@ A PyTorch-based tool for validating the position of pill indicators in medical s
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/pill-position-validator.git
+git clone https://github.com/vinit-creo/pill-position-validator.git
 cd pill-position-validator
 ```
 
